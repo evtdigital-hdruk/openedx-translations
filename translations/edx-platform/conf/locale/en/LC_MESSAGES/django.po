@@ -8997,7 +8997,7 @@ msgstr ""
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:820
 #, python-brace-format
 msgid "Tell us why you're interested in {platform_name}"
-msgstr ""
+msgstr "What would you like to achieve with {platform_name}?"
 
 #. Translators: This label appears above a dropdown menu to select
 #. the user's profession
